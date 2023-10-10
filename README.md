@@ -4,7 +4,7 @@ The [Online Retail II](https://archive.ics.uci.edu/dataset/502/online+retail+ii)
 
 Hence, I've attempted to conduct RFM (Recency, Frequency & Monetary) analysis and cluster their customers to come up with marketing strategy recommendations.
 
-#### **Outcomes of clustering**
+#### **Outcomes of clustering & recommendations**
 
 | Cluster | Cluster Size | Recency | Monetary | Frequency |
 | ------- | ------------ | ------- | -------- | --------- |
@@ -19,7 +19,7 @@ Hence, I've attempted to conduct RFM (Recency, Frequency & Monetary) analysis an
 
 - `Cluster 2` can be characterised as those that spend less money, but order relatively frequently (as their last transactions a month ago). Promotions and discounts are likely to work well for this group to encourage them to spend more.
 
-- Customers in `Cluster 3` have likely churned as they haven't spend much and haven't stopped by in a long time. This is worrisome as they make up the largest cluster.
+- Customers in `Cluster 3` have likely churned as they haven't spent much and haven't stopped by in a long time. This is worrisome as they make up the largest cluster.
 
 #### **Methodology**
 
