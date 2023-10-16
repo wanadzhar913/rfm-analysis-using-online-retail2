@@ -17,7 +17,7 @@ Hence, I've attempted to conduct RFM (Recency, Frequency & Monetary) analysis an
 
 - `Cluster 0` is the next best cluster, because they make the 2nd most amount of money. However the customers in that group haven't come for a while. Hence, more targeted marketing efforts focused on building brand awareness and engagement is the recommendation for the long term. Over time, promotions e.g., free shipping or discounts can eventually be made to induce loyalty and patronage.
 
-- `Cluster 2` can be characterised as those that spend less money, but order relatively frequently (as their last transactions a month ago). Promotions and discounts are likely to work well for this group to encourage them to spend more.
+- `Cluster 2` can be characterised as those that spend less money, but order relatively frequently (as their last transactions a month ago). Promotions and discounts are likely to work well for this group to encourage them to **occasionally** spend more.
 
 - Customers in `Cluster 3` have likely churned as they haven't spent much and haven't stopped by in a long time. This is worrisome as they make up the largest cluster.
 
